@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 class SSHController extends Controller
 {
-    public function sshGitFromLaravel1()
+    public function sshGitFromLaravel2()
     {
-        return '111';
+        return '222';
     }
 }
